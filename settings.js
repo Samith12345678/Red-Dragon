@@ -49,9 +49,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94714134753']
 global.ownertag = '+94714134753' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.botname = '𝙎𝘼𝙈𝙄╺ 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝙇 - 𝘉𝘖𝘛' //ur bot name
+global.packname = "ꜱᴀᴍɪ Sticker" // sticker packname
+global.author = "𝙎𝘼𝙈𝙄╺ 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝙇" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
