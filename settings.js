@@ -12,7 +12,17 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤔How can I help you?🤫` //Costomize Alive Message (type your message in `` )
+🤔How can I help you?🤫` //Costomize Alive Message (𝙾𝚆𝙽𝙴𝚁      :ꜱᴀᴍɪ ᴏꜰꜰɪᴄɪᴀʟʟ   
+
+  
+
+𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 :ᴅᴇᴠɪʟ ᴍᴀx                       
+
+𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙼𝙸𝚈𝙰 ²⁰²²    
+
+𝒮𝒶𝓂𝒾𝓉𝒽 𝑀𝒶𝒹𝓊𝓈𝒶𝓃𝓀𝒶৫⃟➤᭄᭄̊̊̊̊࿓࿔
+
+*╚═══❖•ೋ° °ೋ•❖═══╝* `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -71,7 +81,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈හදිස්සියක් නෑනේ. පොඩ්ඩක් හිටපන් 😁.....',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
